@@ -20,6 +20,8 @@ Features:
 
 ## Install and Run
 
-- npm install
-- npm run dev
-- Open http://localhost:3000 in a browser
+- clone the project using git
+- from the project directory:
+    - npm install
+    - npm run dev
+    - Open http://localhost:3000 in a browser
